@@ -69,11 +69,5 @@ View app on http://localhost:3000
 - [Trinav Rattan](https://github.com/Trinav2001)
 - [Tanmay Srivastava](https://github.com/tanmay-xvx)
 
-```javascript
 
-if (youEnjoyed) {
-    starThisRepository();
-}
-
-```
 
